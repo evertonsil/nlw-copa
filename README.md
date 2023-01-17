@@ -1,8 +1,10 @@
 <p align="center">
-  <img alt="NLW Copa" src=".github/logo.svg" />
+  <img alt="NLW Copa" src="https://user-images.githubusercontent.com/56364168/212904108-c8a2440c-b99c-487b-b829-871be47045af.svg
+g" />
 </p>
 
-<img src=".github/web.png">
+<img src="https://user-images.githubusercontent.com/56364168/212904316-2266a0a8-af3a-4316-b6d9-309d27b344c4.png
+
 
 ## 💻 Projeto
 
@@ -37,5 +39,5 @@ Você pode visualizar o layout do projeto através do link abaixo:
 - [Layout](https://www.figma.com/community/file/1169028343875283461)
 
 <p align="center">
-  Desenvolvido por Everton Marques & Rocketseat 🚀!
+  Desenvolvido por Everton Marques & Rocketseat! 🚀
 </p>
