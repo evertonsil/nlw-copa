@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="NLW Copa" src="https://user-images.githubusercontent.com/56364168/212904108-c8a2440c-b99c-487b-b829-871be47045af.svg
-g" />
+  <img alt="NLW Copa" src=https://user-images.githubusercontent.com/56364168/212904108-c8a2440c-b99c-487b-b829-871be47045af.svg
+g />
 </p>
 
-<img src="https://user-images.githubusercontent.com/56364168/212904316-2266a0a8-af3a-4316-b6d9-309d27b344c4.png
+<img src=https://user-images.githubusercontent.com/56364168/212904316-2266a0a8-af3a-4316-b6d9-309d27b344c4.png />
 
 
 ## 💻 Projeto
